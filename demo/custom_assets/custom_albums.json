@@ -1,0 +1,11 @@
+[
+	{
+		"uid": "music_package_9999",
+		"title": "Custom Music",
+		"needPurchase": false,
+		"price": "0.00",
+		"jsonName": "ALBUM10000",
+		"prefabsName": "AlbumDisco10000",
+		"free" : true,
+	}
+]
