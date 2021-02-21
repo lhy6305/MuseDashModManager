@@ -1,0 +1,299 @@
+//A4：空中
+//A5：地面
+//A6：特效
+[
+  {
+	"id": "1",
+	"scene": "0",
+	"ibms_id": "22",
+	"des": "红心_平移_1"
+  },
+  {
+	"id": "7",
+	"scene": "0",
+	"ibms_id": "23",
+	"des": "音符_平移_1"
+  },
+  {
+	"id": "13",
+	"scene": "0",
+	"ibms_id": "1O",
+	"des": "场景切换_1"
+  },
+  {
+	"id": "16",
+	"scene": "0",
+	"ibms_id": "1P",
+	"des": "场景切换_2"
+  },
+  {
+	"id": "19",
+	"scene": "0",
+	"ibms_id": "1Q",
+	"des": "场景切换_3"
+  },
+  {
+	"id": "22",
+	"scene": "0",
+	"ibms_id": "1R",
+	"des": "场景切换_4"
+  },
+  {
+	"id": "25",
+	"scene": "0",
+	"ibms_id": "1S",
+	"des": "场景切换_5"
+  },
+  {
+	"id": "28",
+	"scene": "0",
+	"ibms_id": "1T",
+	"des": "场景切换_6"
+  },
+  {
+	"id": "31",
+	"scene": "0",
+	"ibms_id": "1U",
+	"des": "场景切换_7"
+  },
+  {
+	"id": "34",
+	"scene": "0",
+	"ibms_id": "2O",
+	"des": "自动打开启_1"
+  },
+  {
+	"id": "37",
+	"scene": "0",
+	"ibms_id": "2P",
+	"des": "自动打关闭_1"
+  },
+  {
+	"id": "40",
+	"scene": "scene_01",
+	"ibms_id": "0F",
+	"des": "长按_平移_1"
+  },
+  {
+	"id": "46",
+	"scene": "scene_01",
+	"ibms_id": "0H",
+	"des": "齿轮_平移_1"
+  },
+  {
+	"id": "49",
+	"scene": "scene_01",
+	"ibms_id": "0G",
+	"des": "连击_平移_1"
+  },
+  {
+	"id": "55",
+	"scene": "scene_01",
+	"ibms_id": "0E",
+	"des": "双击_地面平移_1"
+  },
+  {
+	"id": "61",
+	"scene": "scene_01",
+	"ibms_id": "1A",
+	"des": "boss_01_入场_45"
+  },
+  {
+	"id": "62",
+	"scene": "scene_01",
+	"ibms_id": "1B",
+	"des": "boss_01_退场_30"
+  },
+  {
+	"id": "63",
+	"scene": "scene_01",
+	"ibms_id": "11",
+	"des": "boss_01_近战_48"
+  },
+  {
+	"id": "64",
+	"scene": "scene_01",
+	"ibms_id": "12",
+	"des": "boss_01_近战2_24"
+  },
+  {
+	"id": "65",
+	"scene": "scene_01",
+	"ibms_id": "1C",
+	"des": "boss_01_远程1_开始_21"
+  },
+  {
+	"id": "66",
+	"scene": "scene_01",
+	"ibms_id": "1D",
+	"des": "boss_01_远程1_结束_21"
+  },
+  {
+	"id": "67",
+	"scene": "scene_01",
+	"ibms_id": "1E",
+	"des": "boss_01_远程2_开始_21"
+  },
+  {
+	"id": "68",
+	"scene": "scene_01",
+	"ibms_id": "1F",
+	"des": "boss_01_远程2_结束_21"
+  },
+  {
+	"id": "69",
+	"scene": "scene_01",
+	"ibms_id": "1G",
+	"des": "boss_01_远程1_切换到远程2_21"
+  },
+  {
+	"id": "70",
+	"scene": "scene_01",
+	"ibms_id": "1H",
+	"des": "boss_01_远程2_切换到远程1_21"
+  },
+  {
+	"id": "71",
+	"scene": "scene_01",
+	"ibms_id": "13",
+	"des": "Boss光球_远程1平移_1"
+  },
+  {
+	"id": "77",
+	"scene": "scene_01",
+	"ibms_id": "14",
+	"des": "Boss炮弹_远程2平移_1"
+  },
+  {
+	"id": "83",
+	"scene": "scene_01",
+	"ibms_id": "15",
+	"des": "Boss炸弹_远程2平移_1"
+  },
+  {
+	"id": "107",
+	"scene": "scene_01",
+	"ibms_id": "16",
+	"des": "boss_01_连击_48"
+  },
+  {
+	"id": "108",
+	"scene": "scene_01",
+	"ibms_id": "17",
+	"des": "boss_01_连击后退场_48"
+  },
+  {
+	"id": "109",
+	"scene": "scene_01",
+	"ibms_id": "18",
+	"des": "Boss齿轮_平移_1_1"
+  },
+  {
+	"id": "121",
+	"scene": "scene_01",
+	"ibms_id": "01",
+	"des": "螺旋桨机器人_平移_1"
+  },
+  {
+	"id": "127",
+	"scene": "scene_01",
+	"ibms_id": "02",
+	"des": "螺旋桨机器人_上升_1"
+  },
+  {
+	"id": "133",
+	"scene": "scene_01",
+	"ibms_id": "03",
+	"des": "螺旋桨机器人_下落_1"
+  },
+  {
+	"id": "139",
+	"scene": "scene_01",
+	"ibms_id": "04",
+	"des": "圆形机器人_平移_1"
+  },
+  {
+	"id": "145",
+	"scene": "scene_01",
+	"ibms_id": "05",
+	"des": "圆形机器人_上升_1"
+  },
+  {
+	"id": "151",
+	"scene": "scene_01",
+	"ibms_id": "06",
+	"des": "圆形机器人_下落_1"
+  },
+  {
+	"id": "157",
+	"scene": "scene_01",
+	"ibms_id": "07",
+	"des": "方块机器人_平移_1"
+  },
+  {
+	"id": "163",
+	"scene": "scene_01",
+	"ibms_id": "08",
+	"des": "方块机器人_上升_1"
+  },
+  {
+	"id": "169",
+	"scene": "scene_01",
+	"ibms_id": "09",
+	"des": "方块机器人_下落_1"
+  },
+  {
+	"id": "175",
+	"scene": "scene_01",
+	"ibms_id": "0A",
+	"des": "壮汉机器人_平移_1"
+  },
+  {
+	"id": "181",
+	"scene": "scene_01",
+	"ibms_id": "0B",
+	"des": "警车_平移_1"
+  },
+  {
+	"id": "187",
+	"scene": "scene_01",
+	"ibms_id": "0D",
+	"des": "摆锤_下落_1"
+  },
+  {
+	"id": "193",
+	"scene": "scene_01",
+	"ibms_id": "0C",
+	"des": "突袭小怪_上升_1"
+  },
+  {
+	"id": "199",
+	"scene": "scene_01",
+	"ibms_id": "21",
+	"des": "隐藏_平移_1"
+  },
+  {
+	"id": "709",
+	"scene": "scene_05",
+	"ibms_id": "34",
+	"des": "齿轮_平移_1_带提示"
+  },
+  {
+	"id": "722",
+	"scene": "scene_05",
+	"ibms_id": "33",
+	"des": "双击_空中平移_1_带提示"
+  },
+  {
+	"id": "786",
+	"scene": "scene_05",
+	"ibms_id": "31",
+	"des": "云_地面平移_1_带提示"
+  },
+  {
+	"id": "790",
+	"scene": "scene_05",
+	"ibms_id": "32",
+	"des": "云_空中平移_1_带提示"
+  }
+]
