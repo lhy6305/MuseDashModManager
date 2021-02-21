@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "9999-1",
+    "name": "Custom",
+    "author": "Custom",
+    "bpm": "120",
+    "music": "custom_music.wav",
+    "demo": "custom_demo.wav",
+    "cover": "nocover.png",
+    "noteJson": "iyaiya_map.json",
+    "scene": "scene_05",
+    "levelDesigner": "Custom",
+    "difficulty1": "1",
+    "difficulty2": "4",
+    "difficulty3": "6",
+    "unlockLevel": "1"
+  }
+]
