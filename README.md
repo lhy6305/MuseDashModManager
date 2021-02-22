@@ -10,7 +10,7 @@
 请自行补充缺失的音频，现在只支持wav格式（使用NAudio加载）
   
 制作bms提示：  
-- 自定义bms文件的\#WAVxx标识含义可从**notedata.json**得到  
+- 自定义bms文件的\#WAVxx标识含义可从**notedata.bms**得到  
 - 键位提示  
  -- A4\(14\)：空中  
  -- A5\(15\)：地面  
